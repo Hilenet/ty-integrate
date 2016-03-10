@@ -1,0 +1,4 @@
+*.yml
+test.*
+auth.*
+.*swp
