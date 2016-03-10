@@ -1,0 +1,29 @@
+develop: 
+  target: "devoverslept"
+  me: "yukarin_for_one"
+  db: 
+    db: "ddlotp0s7o01ad"
+    user: "gnupgyhxcmbeia"
+    pass: "-diMN89SA5cTb4xyFMq7QQNAtw"
+    host: "ec2-54-225-201-25.compute-1.amazonaws.com"
+    port: 5432
+
+product: 
+  target: "hile_net"
+  me: "yukarin_for_one"
+  db: 
+    db: "ddlotp0s7o01ad"
+    user: "gnupgyhxcmbeia"
+    pass: "-diMN89SA5cTb4xyFMq7QQNAtw"
+    host: "ec2-54-225-201-25.compute-1.amazonaws.com"
+    port: 5432
+
+# overslept.dev@gmail.com
+# nemusugiwww
+
+# oversleptdev+yukarin@gmail.com
+# nemusugiwarota
+
+...
+psql -d ddlotp0s7o01ad -h ec2-54-225-201-25.compute-1.amazonaws.com -U gnupgyhxcmbeia
+-diMN89SA5cTb4xyFMq7QQNAtw
